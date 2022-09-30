@@ -1,0 +1,166 @@
+{
+  "instances": [
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 355.5002136230469,
+      "y": 116.8411865234375,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 354.16522216796875,
+      "y": 109.72123718261719,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 363.62139892578125,
+      "y": 104.82627868652344,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 206.72064208984375,
+      "y": 208.62551879882812,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 210.08372497558594,
+      "y": 203.02037048339844,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 214.1474609375,
+      "y": 197.27508544921875,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 227.92654418945312,
+      "y": 130.7716827392578,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 226.58396911621094,
+      "y": 118.24098205566406,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 213.8295135498047,
+      "y": 131.44296264648438,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 238.21961975097656,
+      "y": 133.23306274414062,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 237.7720947265625,
+      "y": 141.7360382080078,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 235.08694458007812,
+      "y": 120.7023696899414,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    },
+    {
+      "type": "point",
+      "classId": 1,
+      "probability": 100,
+      "x": 219.9,
+      "y": 124.1,
+      "groupId": 0,
+      "pointLabels": {},
+      "locked": false,
+      "visible": true,
+      "attributes": []
+    }
+  ],
+  "tags": [],
+  "metadata": {
+    "version": "1.0.0",
+    "name": "2021-11-24_007.png",
+    "status": "Completed"
+  }
+}
